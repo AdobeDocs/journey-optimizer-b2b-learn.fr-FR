@@ -2,10 +2,10 @@
 title: Tutoriels [!DNL Journey Optimizer B2B Edition]
 description: Regardez des tutoriels vidéo sur  [!DNL Journey Optimizer B2B Edition]. Approfondissez votre compréhension de l’orchestration des parcours de compte et de groupe d’achat, etc.
 exl-id: 5d041113-2e1b-45b2-a786-93621cd392a6
-source-git-commit: 688c658299a0e1e7a74e1a714d2732ffed3a7c45
+source-git-commit: ba3b04d8bedc8df0ddaacb902a65d0144bfab2d4
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 17%
+source-wordcount: '153'
+ht-degree: 20%
 
 ---
 
@@ -15,20 +15,14 @@ Découvrez comment tirer le meilleur parti de [!DNL Journey Optimizer B2B Editio
 
 ## Nouveautés {#whats-new}
 
-* [Présentation des Parcours de compte](/help/account-journeys/introducing-account-journeys.md)
-  _Découvrez les Parcours de compte et comment les utiliser pour séduire votre audience cible._
+* [étapes du groupe d&#39;achat](/help/buying-groups/buying-group-stages.md)
+  _Découvrez comment créer plusieurs étapes du cycle de vie d&#39;un groupe d&#39;achats dans un modèle à une seule étape et spécifier les règles de transition._
 
-* [Créer un Parcours de compte](/help/account-journeys/create-an-account-journey.md)
-  _Découvrez comment utiliser l’audience de compte, le nœud d’action, le nœud d’écoute et le nœud de chemins de partage pour créer des Parcours de compte._
+* [Écouter les événements AEP](/help/account-journeys/journey-nodes/listen-for-aep-events.md)
+  _Définissez et utilisez un événement d’expérience dans le parcours de votre compte._
 
-* [Nœud de l’action](/help/account-journeys/journey-nodes/action-node.md)
-  _Découvrez les nœuds d’action et comment les configurer lors de la création d’un Parcours de compte._
-
-* [Nœud d’écoute](/help/account-journeys/journey-nodes/listen-node.md)
-  _Découvrez les nœuds d’écoute et comment les configurer lors de la création d’un Parcours de compte._
-
-* [Parcours de compte partagé](/help/account-journeys/journey-nodes/split-account-journey.md)
-  _Découvrez les nœuds de chemin de division/fusion et comment les configurer lors de la création d’un Parcours de compte._
+* [Orchestration de médias payants](/help/account-journeys/journey-nodes/paid-media-orchestration.md)
+  _Découvrez comment utiliser un parcours pour déplacer des personnes vers une audience externe, que vous pouvez ensuite pousser vers n’importe quelle destination de média payant prise en charge dans le catalogue de destination d’AEP._
 
 ## Vidéos les plus populaires {#most-popular-videos}
 
