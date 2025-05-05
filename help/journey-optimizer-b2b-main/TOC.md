@@ -23,7 +23,7 @@ ht-degree: 43%
       + [Écoute des événements AEP](/help/account-journeys/journey-nodes/listen-for-aep-events.md)
       + [Orchestration de médias payants](/help/account-journeys/journey-nodes/paid-media-orchestration.md)
       + [Parcours de compte partagé](/help/account-journeys/journey-nodes/split-account-journey.md)
-+ {#buying-groups} des groupes d&#39;achat
++ des groupes d&#39;achat{#buying-groups}
    + [Vue d’ensemble des groupes d’achat](/help/buying-groups/buying-groups-overview.md)
    + [Étapes du groupe d’achat](/help/buying-groups/buying-group-stages.md)
    + [Créer un groupe d&#39;achat](/help/buying-groups/create-a-buying-group.md)
