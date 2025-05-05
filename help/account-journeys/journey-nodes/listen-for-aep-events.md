@@ -24,4 +24,4 @@ L’écoute des événements AEP dans AJO B2B vous permet de définir et d’uti
 
 * Utilisation d’événements AEP dans le parcours de compte
 
->[!VIDEO](https://video.tv.adobe.com/v/3448637/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448685/?learn=on&enablevpops&captions=fre_fr)

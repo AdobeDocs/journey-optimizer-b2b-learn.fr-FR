@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez comment utiliser l’audience de compte, le nœud d’action, le nœud d’écoute et le nœud de chemins de partage pour créer des Parcours de compte.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443204/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443221/?learn=on&enablevpops&captions=fre_fr)

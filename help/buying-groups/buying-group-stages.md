@@ -22,4 +22,4 @@ Les étapes du groupe d&#39;achat représentent les différentes phases qu&#39;u
 
 Grâce à cette fonctionnalité, vous pouvez créer plusieurs étapes du cycle de vie d&#39;un groupe d&#39;achats dans un modèle à une seule étape et spécifier les règles de transition. En établissant ces règles, vous aurez un contrôle total sur la façon dont un groupe d&#39;achat peut passer d&#39;une étape à l&#39;autre. Les transitions d’étape peuvent ensuite être automatisées dans un Parcours, associant ces fonctionnalités en un flux puissant.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448634/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448696/?learn=on&enablevpops&captions=fre_fr)

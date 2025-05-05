@@ -20,4 +20,4 @@ ht-degree: 5%
 
 Découvrez les centres d’intérêt des solutions de groupes d’achat et comment les configurer/les utiliser lors de la création d’un groupe d’achats.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433080/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450115/?learn=on&captions=fre_fr)

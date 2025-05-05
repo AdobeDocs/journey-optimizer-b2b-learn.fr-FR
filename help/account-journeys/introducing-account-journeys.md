@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez les Parcours de compte et comment les utiliser pour séduire votre audience cible.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443202/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443209/?learn=on&enablevpops&captions=fre_fr)

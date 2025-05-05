@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez les nœuds d’action et comment les configurer lors de la création d’un Parcours de compte.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443207/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443247/?learn=on&enablevpops&captions=fre_fr)

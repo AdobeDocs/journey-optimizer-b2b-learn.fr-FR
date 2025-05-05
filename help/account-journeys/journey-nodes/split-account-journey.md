@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez les nœuds de chemin de division/fusion et comment les configurer lors de la création d’un Parcours de compte.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443258/?learn=on&enablevpops&captions=fre_fr)

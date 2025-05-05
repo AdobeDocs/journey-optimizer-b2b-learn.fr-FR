@@ -30,4 +30,4 @@ Une fois que les listes de comptes sont créées et renseignées avec les compte
 
 En résumé, les listes de comptes dans AJO B2B sont un élément fondamental pour la gestion et l’orchestration des activités de marketing basées sur les comptes et d’engagement client. Ils permettent aux utilisateurs d’organiser, de cibler et de personnaliser les engagements marketing pour les comptes clés, ce qui génère des interactions et des relations significatives.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448636/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448651/?learn=on&enablevpops&captions=fre_fr)
