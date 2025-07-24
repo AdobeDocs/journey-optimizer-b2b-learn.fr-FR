@@ -30,4 +30,4 @@ En guise de solution à ce défi, [!DNL Journey Optimizer B2B Edition] vous offr
 
 Dans cette vidéo, nous allons vous montrer comment utiliser un parcours pour déplacer des personnes vers une audience externe, que vous pouvez ensuite pousser vers n’importe quelle destination de médias achetés prise en charge dans le catalogue de destination d’AEP.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448649/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448674/?learn=on&enablevpops&captions=fre_fr)
