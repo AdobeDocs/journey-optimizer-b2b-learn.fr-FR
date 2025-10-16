@@ -2,10 +2,10 @@
 user-guide-title: Tutoriels [!DNL Journey Optimizer B2B Edition]
 breadcrumb-title: Tutoriels [!DNL Journey Optimizer B2B Edition]
 user-guide-description: Découvrez comment tirer le meilleur parti de  [!DNL Journey Optimizer B2B Edition]. Orchestrez des parcours de compte et de groupe d’achat à l’aide d’une IA générée intégrée et d’une automatisation de pointe afin d’optimiser la demande pour des offres spécifiques.
-source-git-commit: a39154610df6f18a602d00d7249fe581463a7133
+source-git-commit: ac86936e77f1937ad1384a23f9ede67db7fc0455
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 58%
+source-wordcount: '80'
+ht-degree: 55%
 
 ---
 
@@ -31,3 +31,4 @@ ht-degree: 58%
    + [Créer un groupe d&#39;achat](/help/buying-groups/create-a-buying-group.md)
    + [Modèles de rôle](/help/buying-groups/role-templates.md)
    + [Intérêt de la solution](/help/buying-groups/solution-interest.md)
+   + [Utilisation du Account Qualification Agent](/help/buying-groups/account-qualification-agent.md)
