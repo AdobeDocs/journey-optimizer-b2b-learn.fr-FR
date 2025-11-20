@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Journey Optimizer B2B Edition]"
+title: '[!DNL Journey Optimizer B2B Edition]'
 description: Découvrez les composants d’un groupe d’achat et les principes de base de la création d’un parcours de compte.
 role: Admin, User
 level: Beginner, Intermediate, Experienced
