@@ -24,4 +24,4 @@ L’écoute des événements AEP dans [!DNL Journey Optimizer B2B Edition] vous 
 
 * Utilisation d’événements AEP dans le parcours de compte
 
->[!VIDEO](https://video.tv.adobe.com/v/3448637/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448685/?captions=fre_fr&learn=on&enablevpops)

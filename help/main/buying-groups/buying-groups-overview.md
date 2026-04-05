@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Découvrez les groupes d’achat et la façon de les utiliser.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452929/?captions=fre_fr&learn=on)

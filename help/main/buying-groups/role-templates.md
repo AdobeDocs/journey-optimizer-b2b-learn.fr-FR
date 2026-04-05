@@ -20,4 +20,4 @@ ht-degree: 5%
 
 Découvrez les modèles de rôle de groupe d&#39;achats et comment les configurer/utiliser lors de la création d&#39;un groupe d&#39;achats.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433079/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453301/?captions=fre_fr&learn=on)

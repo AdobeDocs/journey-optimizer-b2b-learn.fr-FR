@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez comment utiliser une audience de compte, un modèle de rôle et un intérêt pour une solution afin de créer des groupes d’achat.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433081/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451763/?captions=fre_fr&learn=on)
