@@ -7,4 +7,4 @@ ht-degree: 0%
 ---
 # ARCHIVÉ
 
-Ce référentiel a été migré vers <https://github.com/Adobe-Enterprise-Docs/journey-optimizer-b2b-learn.en>.
+Ce référentiel a été migré vers <https://github.com/Adobe-Enterprise-Docs/journey-optimizer-b2b-learn.fr-FR>.
