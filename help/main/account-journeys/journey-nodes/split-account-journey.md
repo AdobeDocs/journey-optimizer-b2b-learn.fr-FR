@@ -1,23 +1,37 @@
 ---
-title: Parcours de compte partagé
+title: Fractionner et fusionner les chemins
 description: Découvrez les nœuds de chemin de division/fusion et comment les configurer lors de la création d’un Parcours de compte.
 feature: Account Journeys
 role: Admin, User
 level: Beginner, Intermediate
 doc-type: Feature Video
 duration: 832
-last-substantial-update: 2025-01-29T00:00:00Z
+last-substantial-update: '2026-10-22T00:00:00.000Z'
 jira: KT-17238
 exl-id: 63620f3b-9920-434e-9d53-84ea49330211
-source-git-commit: c7b76b0f10bc4becb38c515e0b4c4cc9c457c6fb
+autotag-review: '2026-10-22T23:34:24.926Z'
+TQID: 'https://experienceleague.adobe.com/3SlibaKgi0pTbWChOzTeUaUgPXf0heIgv-yLcCUkYMM'
+product_v2:
+  - id: aacce07f-424e-489e-8d02-a4fb2f4211bd
+    internal-label: Journey Optimizer B2B Edition
+feature_v2:
+  - id: a4b836d9-ffdd-4df3-a62a-f78b830cf059
+    internal-label: Journeys
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 87e82da81f0005d71bb3a72328051caa9d373a06
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 0%
-
+source-wordcount: '70'
+ht-degree: 5%
 ---
+# Partager et fusionner des chemins
 
-# Parcours de compte partagé
+Découvrez les nœuds de chemin de division et de fusion et comment les configurer lors de la création d’un parcours de compte ou de personne.
 
-Découvrez les nœuds de chemin de division/fusion et comment les configurer lors de la création d’un Parcours de compte.
+>[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
 
->[!VIDEO](https://video.tv.adobe.com/v/3443258/?captions=fre_fr&learn=on&enablevpops)
+Pour plus d’informations, voir _[Partage et fusion de chemins](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_ dans le guide d’utilisation.
