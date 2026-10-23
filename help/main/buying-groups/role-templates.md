@@ -39,4 +39,4 @@ Découvrez les modèles de rôle de groupe d&#39;achats et comment les configure
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433079/?learn=on)
 
-Pour plus d’informations, voir [Achat de modèles de rôle de groupe](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates) dans le guide de l’utilisateur.
+Pour plus d’informations, voir [Achat de modèles de rôle de groupe](https://experienceleague.adobe.com/fr/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates) dans le guide de l’utilisateur.

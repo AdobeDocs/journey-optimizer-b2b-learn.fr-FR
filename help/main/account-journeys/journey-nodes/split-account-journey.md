@@ -34,4 +34,4 @@ Découvrez les nœuds de chemin de division et de fusion et comment les configur
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
 
-Pour plus d’informations, voir _[Partage et fusion de chemins](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_ dans le guide d’utilisation.
+Pour plus d’informations, voir _[Partage et fusion de chemins](https://experienceleague.adobe.com/fr/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_ dans le guide d’utilisation.
