@@ -37,6 +37,6 @@ ht-degree: 3%
 
 Découvrez les modèles de rôle de groupe d&#39;achats et comment les configurer/utiliser lors de la création d&#39;un groupe d&#39;achats.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433079/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453301/?captions=fre_fr&learn=on)
 
 Pour plus d’informations, voir [Achat de modèles de rôle de groupe](https://experienceleague.adobe.com/fr/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates) dans le guide de l’utilisateur.
