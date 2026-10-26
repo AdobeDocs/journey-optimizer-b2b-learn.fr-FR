@@ -49,4 +49,4 @@ Découvrez comment faire ce qui suit :
 * Fractionner par personnes à l’aide d’attributs de personne, d’attributs de relation compte-personne, d’appartenance à un groupe d’achats, d’objets personnalisés et d’un historique d’événements avec intervalles de recherche en amont, fréquence et filtrage d’inactivité.
 * Découvrez comment le nœud de chemins de partage de fermeture automatique renvoie les personnes vers le parcours de compte.
 
-Pour plus d’informations, voir _[Partage et fusion de chemins](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_ dans le guide d’utilisation.
+Pour plus d’informations, voir _[Partage et fusion de chemins](https://experienceleague.adobe.com/fr/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_ dans le guide d’utilisation.

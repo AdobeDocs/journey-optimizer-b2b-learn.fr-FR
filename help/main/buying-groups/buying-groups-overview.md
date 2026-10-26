@@ -48,4 +48,4 @@ Découvrez comment faire ce qui suit :
 * Examinez et mettez à jour les membres du groupe d&#39;achat. Les mises à jour manuelles sont prioritaires sur les actions de parcours et les tâches système.
 * Utilisez les informations sur les rôles pour comparer l’acquisition et l’engagement entre les rôles, filtrés par période.
 
-Pour plus d’informations, voir _[Achats de groupes](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_ dans le guide de l’utilisateur.
+Pour plus d’informations, voir _[Achats de groupes](https://experienceleague.adobe.com/fr/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_ dans le guide de l’utilisateur.

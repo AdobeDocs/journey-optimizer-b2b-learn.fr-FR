@@ -53,4 +53,4 @@ Découvrez comment faire ce qui suit :
 * Utilisez les paramètres Score d&#39;exhaustivité pour définir le nombre de membres requis pour chaque rôle.
 * Publiez un modèle afin que son statut passe à Actif et qu’il soit disponible pour les personnes intéressées par la solution.
 
-Pour plus d’informations, voir [Achat de modèles de rôle de groupe](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates) dans le guide de l’utilisateur.
+Pour plus d’informations, voir [Achat de modèles de rôle de groupe](https://experienceleague.adobe.com/fr/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates) dans le guide de l’utilisateur.
