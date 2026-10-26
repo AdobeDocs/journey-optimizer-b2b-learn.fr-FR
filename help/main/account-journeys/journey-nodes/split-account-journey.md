@@ -35,7 +35,7 @@ Découvrez comment utiliser les nœuds de chemin de division et de fusion dans A
 
 Ce tutoriel est destiné aux professionnels du marketing et aux concepteurs de parcours qui utilisent [!DNL Journey Optimizer B2B Edition] pour personnaliser des parcours marketing basés sur un compte pour différents segments et membres de groupes d’achat.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443258/?captions=fre_fr&learn=on&enablevpops)
 
 Découvrez comment faire ce qui suit :
 
