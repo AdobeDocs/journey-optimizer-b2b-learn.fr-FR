@@ -1,5 +1,5 @@
 ---
-title: Présentation des groupes d’achat dans Adobe [!DNL Journey Optimizer B2B Edition]
+title: Groupes d'achat en [!DNL Journey Optimizer B2B Edition]
 description: Découvrez comment créer, gérer et évaluer des groupes d’achats dans Adobe [!DNL Journey Optimizer B2B Edition], des modèles de rôle aux centres d’intérêt des solutions, en passant par la préparation et les informations sur les rôles.
 keywords: groupes d’achat, [!DNL Journey Optimizer B2B Edition] Adobe, marketing basé sur les comptes, groupe d’achat B2B, modèles de rôle, intérêt de la solution, audience du compte, étapes du groupe d’achat, exhaustivité du groupe d’achat, informations sur les rôles, automatisation du marketing B2B
 feature: Buying Groups
@@ -24,18 +24,18 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 85f11f822fd6915c58beec677aef15621c8cc0e6
+source-git-commit: 0378440b788599f4f2996507c407b6d031edc594
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '248'
 ht-degree: 1%
 ---
-# Présentation des groupes d’achat dans Adobe [!DNL Journey Optimizer B2B Edition]
+# Groupes d&#39;achat en [!DNL Journey Optimizer B2B Edition]
 
 Découvrez comment les groupes d’achats organisent les personnes pour les décisions d’achat B2B dans [!DNL Adobe Journey Optimizer B2B Edition]. Cette vidéo décrit les composants dont vous avez besoin, comment préparer une tâche de création de groupe d’achats et comment évaluer la préparation.
 
 Ce tutoriel est destiné aux spécialistes du marketing et aux administrateurs qui utilisent [!DNL Journey Optimizer B2B Edition] pour le marketing basé sur les comptes et qui souhaitent cibler les parties prenantes appropriées et qualifier les comptes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452929/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on&enablevpops)
 
 Découvrez comment faire ce qui suit :
 
@@ -48,4 +48,4 @@ Découvrez comment faire ce qui suit :
 * Examinez et mettez à jour les membres du groupe d&#39;achat. Les mises à jour manuelles sont prioritaires sur les actions de parcours et les tâches système.
 * Utilisez les informations sur les rôles pour comparer l’acquisition et l’engagement entre les rôles, filtrés par période.
 
-Pour plus d’informations, voir _[Achats de groupes](https://experienceleague.adobe.com/fr/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_ dans le guide de l’utilisateur.
+Pour plus d’informations, voir _[Achats de groupes](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_ dans le guide de l’utilisateur.

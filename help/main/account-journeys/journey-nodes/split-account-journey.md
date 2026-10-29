@@ -1,5 +1,5 @@
 ---
-title: Partage et fusion de chemins dans Adobe [!DNL Journey Optimizer B2B Edition]
+title: Partager et fusionner des chemins
 description: Découvrez comment fractionner et fusionner des chemins dans Adobe [!DNL Journey Optimizer B2B Edition] d’acheminer des comptes ou des personnes par conditions, de définir la priorité des chemins et de gérer les audiences sans correspondance.
 keywords: chemins partagés, chemins de fusion, [!DNL Journey Optimizer B2B Edition] Adobe, parcours de compte, nœuds de parcours, marketing basé sur les comptes, orchestration des parcours B2B, préparation des groupes d’achat, conditions de chemin, partage des personnes, filtrage de l’historique des événements, segmentation des parcours
 feature: Account Journeys
@@ -24,18 +24,18 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 375a9f528b4df8d65f8ec3d5646381ab615c4305
+source-git-commit: 0378440b788599f4f2996507c407b6d031edc594
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 0%
+source-wordcount: '312'
+ht-degree: 3%
 ---
-# Partage et fusion de chemins dans Adobe [!DNL Journey Optimizer B2B Edition]
+# Partager et fusionner des chemins
 
 Découvrez comment utiliser les nœuds de chemin de division et de fusion dans Adobe [!DNL Journey Optimizer B2B Edition] pour acheminer des comptes ou des personnes via un parcours de compte en fonction des conditions. Cette vidéo décrit les divisions de comptes et de personnes, la priorité de chemin, les chemins par défaut et la fusion.
 
 Ce tutoriel est destiné aux professionnels du marketing et aux concepteurs de parcours qui utilisent [!DNL Journey Optimizer B2B Edition] pour personnaliser des parcours marketing basés sur un compte pour différents segments et membres de groupes d’achat.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443258/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
 
 Découvrez comment faire ce qui suit :
 
@@ -49,4 +49,4 @@ Découvrez comment faire ce qui suit :
 * Fractionner par personnes à l’aide d’attributs de personne, d’attributs de relation compte-personne, d’appartenance à un groupe d’achats, d’objets personnalisés et d’un historique d’événements avec intervalles de recherche en amont, fréquence et filtrage d’inactivité.
 * Découvrez comment le nœud de chemins de partage de fermeture automatique renvoie les personnes vers le parcours de compte.
 
-Pour plus d’informations, voir _[Partage et fusion de chemins](https://experienceleague.adobe.com/fr/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_ dans le guide d’utilisation.
+Pour plus d’informations, voir _[Partage et fusion de chemins](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_ dans le guide d’utilisation.
