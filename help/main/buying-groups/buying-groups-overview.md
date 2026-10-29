@@ -35,7 +35,7 @@ Découvrez comment les groupes d’achats organisent les personnes pour les déc
 
 Ce tutoriel est destiné aux spécialistes du marketing et aux administrateurs qui utilisent [!DNL Journey Optimizer B2B Edition] pour le marketing basé sur les comptes et qui souhaitent cibler les parties prenantes appropriées et qualifier les comptes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452929/?captions=fre_fr&learn=on&enablevpops)
 
 Découvrez comment faire ce qui suit :
 
