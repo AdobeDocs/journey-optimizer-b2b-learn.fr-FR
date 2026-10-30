@@ -18,7 +18,7 @@ ht-degree: 1%
 
 Utilisez les nœuds d’action dans [!DNL Adobe Journey Optimizer B2B Edition] pour définir des actions pour les comptes ou les personnes d’un parcours. Comparez les actions de compte et les actions de personnes, et découvrez les actions prises en charge par chaque type de parcours.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443207/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443247/?captions=fre_fr&quality=12&learn=on)
 
 ## Nœud d’action essentiel
 

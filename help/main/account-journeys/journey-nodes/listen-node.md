@@ -18,7 +18,7 @@ ht-degree: 1%
 
 Utilisez le nœud [!UICONTROL Écouter un événement] pour [!DNL Adobe Journey Optimizer B2B Edition] un parcours lorsqu’un événement se produit. Comparez les événements de compte et de personne, définissez les critères correspondants et configurez les délais d’expiration pour contrôler la durée d’attente du parcours.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443219/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443236/?captions=fre_fr&quality=12&learn=on)
 
 ## Écouter les essentiels des nœuds
 
