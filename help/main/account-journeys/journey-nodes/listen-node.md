@@ -30,4 +30,4 @@ La vidéo aborde les sujets suivants :
 
 ## Documentation connexe
 
-Pour les événements pris en charge, les étapes de configuration et les options de temporisation, reportez-vous à la section [ Écouter un événement dans le guide d’utilisation](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}.
+Pour les événements pris en charge, les étapes de configuration et les options de temporisation, reportez-vous à la section [&#x200B; Écouter un événement dans le guide d’utilisation](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}.
