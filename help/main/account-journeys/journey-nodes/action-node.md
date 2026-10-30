@@ -30,4 +30,4 @@ La vidéo aborde les sujets suivants :
 
 ## Documentation connexe
 
-Pour les étapes de configuration et les actions de compte et de personnes prises en charge, reportez-vous à la section [Agir dans le guide d’utilisation](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/action-nodes){target="_blank"}.
+Pour les étapes de configuration et les actions de compte et de personnes prises en charge, reportez-vous à la section [Agir dans le guide d’utilisation](https://experienceleague.adobe.com/fr/docs/journey-optimizer-b2b/user/journeys/journey-nodes/action-nodes){target="_blank"}.

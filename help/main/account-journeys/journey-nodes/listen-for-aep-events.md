@@ -35,5 +35,5 @@ Un écouteur répond à l’activité de diffusion en continu correspondante lor
 
 Pour connaître les exigences et les instructions de configuration, reportez-vous aux pages suivantes du guide d’utilisation :
 
-* [Sélectionner des événements d’expérience et des champs](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/configure-aep-events){target="_blank"}
-* [Écouter un évènement](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}
+* [Sélectionner des événements d’expérience et des champs](https://experienceleague.adobe.com/fr/docs/journey-optimizer-b2b/user/get-started/admin-setup/configure-aep-events){target="_blank"}
+* [Écouter un évènement](https://experienceleague.adobe.com/fr/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}
